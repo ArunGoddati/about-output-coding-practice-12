@@ -1,0 +1,23 @@
+.list-item {
+  list-style-type: none;
+}
+.button {
+  background-color: none;
+  border: none;
+  outline: none;
+  width: 55px;
+  height: 55px;
+  border-radius: 5px;
+  margin: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  height: 55px;
+  width: 55px;
+  opacity: 0.5;
+}
+.clear-image {
+  opacity: 2;
+}
